@@ -1,5 +1,7 @@
-const NewPlaces = (props) => {
-  return <h1>wedew</h1>;
+import React from 'react';
+
+const NewPlace = () => {
+  return <h2>NewPlace Works!</h2>
 };
 
-export default NewPlaces;
+export default NewPlace;
