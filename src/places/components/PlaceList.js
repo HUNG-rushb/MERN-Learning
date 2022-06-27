@@ -1,1 +1,0 @@
-import "./PlaceList.css";
